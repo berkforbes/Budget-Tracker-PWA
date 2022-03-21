@@ -19,8 +19,12 @@
   },
   "homepage": "https://github.com/berkforbes/Budget-Tracker-PWA#readme",
   "dependencies": {
+    "compression": "^1.7.4",
     "express": "^4.17.3",
+    "lite-server": "^2.6.1",
+    "mongo": "^0.1.0",
     "mongodb": "^4.4.1",
-    "mongoose": "^6.2.7"
+    "mongoose": "^6.2.7",
+    "morgan": "^1.10.0"
   }
 }
