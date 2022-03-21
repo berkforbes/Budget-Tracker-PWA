@@ -5,7 +5,7 @@
 ![Github licence](https://img.shields.io/badge/license-MIT-blue.svg)
   
 ## Description
-This budget tracker app was created to track and store expenses with and without internet connectivity. If a user makes changes to their budget and they don't have a working internet connection at the time their changes will be cached then uploaded once the user establishes a connection.    
+This budget tracker app was created to track and store expenses with and without internet connectivity. If a user makes changes to their budget without a working internet connection their changes will be cached then uploaded once the user establishes a connection.    
 
 ## Table of Contents
 - [Installation](#installation)
@@ -16,7 +16,7 @@ This budget tracker app was created to track and store expenses with and without
   
 
 ## Installation & Usagge
-To run this API clone this repository into a code editor such as VSCode. Dependencies required to run this app include:
+To run this API clone the repository into a code editor such as VSCode. Dependencies required to run this app include:
 npm, express, mongoose, mongodb, compression, lite-server, and morgan. 
 
 ## License
