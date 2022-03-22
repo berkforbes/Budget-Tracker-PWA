@@ -19,6 +19,9 @@ This budget tracker app was created to track and store expenses with and without
 To run this API clone the repository into a code editor such as VSCode. Dependencies required to run this app include:
 npm, express, mongoose, mongodb, compression, lite-server, and morgan. 
 
+# To use the app follow this link:
+https://radiant-waters-19542.herokuapp.com/
+
 ## License
 This project is licensed under MIT
 
